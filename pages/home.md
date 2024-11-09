@@ -2,7 +2,7 @@
 layout: layouts/home.njk
 title: Hi, I'm Anubhav Kapoor.
 date: 2016-01-01T00:00:00.000Z
-permalink: /
+permalink: /home/index.html/
 eleventyNavigation:
   key: Home
   order: 0
