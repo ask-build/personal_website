@@ -16,5 +16,3 @@ I’ve spent years across Jazz Pharmaceuticals, ZS Associates, and Saama, where 
 Outside of work, I follow what fascinates me: Sci-Fi, stargazing, longevity, reading, and travel. Each of these reminds me to look further and think beyond, shaping how I approach data and life.
 
 Thanks for stopping by.
-
-[](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
